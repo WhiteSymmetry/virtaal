@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../share/appdata/virtaal.appdata.xml.in.h:3
 msgid "Some features:"
-msgstr ""
+msgstr "Bazı özellikler"
 
 #: ../share/appdata/virtaal.appdata.xml.in.h:4
 #, fuzzy
@@ -79,11 +79,11 @@ msgstr "Terimler yardımı"
 
 #: ../share/appdata/virtaal.appdata.xml.in.h:6
 msgid "AutoCompletor and AutoCorrector"
-msgstr ""
+msgstr "OtomatikTamamlayıcı ve OtomatikDoğrulayıcı"
 
 #: ../share/appdata/virtaal.appdata.xml.in.h:7
 msgid "Quality checks with customization for many languages"
-msgstr ""
+msgstr "Birçok dilde özelleştirmesi ile kalite denetimleri"
 
 #: ../share/virtaal/virtaal.ui.h:1
 msgid "Add Missing Language"
